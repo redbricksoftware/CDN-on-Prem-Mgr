@@ -1,6 +1,6 @@
 {
   "name": "CDNOnPremManager",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Manage files in your CDN On Prem Distribution.",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
